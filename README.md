@@ -14,7 +14,8 @@ An autonomous, multi-agent fleet health management system designed for proactive
 ---
 
 # System Architecture:
-<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/975f6fe7-bcf0-45e2-a999-31942891b0d6" />
+![image](https://github.com/user-attachments/assets/ffca781c-f528-4061-9ac6-ed44302c11ff)
+
 
 ---
 ## Prototype visual:
@@ -129,5 +130,6 @@ The system is split into two core layers:
 ├── tools/                # Specialized APIs (Telematics, Service Centers)
 └── main.py               # Backend Entry Point
 ```
+
 
 
