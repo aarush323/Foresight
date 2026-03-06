@@ -1,0 +1,39 @@
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.pyre/
+
+# Node / Frontend
+node_modules/
+dashboard/client/node_modules/
+dist/
+dashboard/client/dist/
+.eslintcache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database & Data
+*.db
+data/vehicles.db
+data/crew_report.json
+data/sample-data.json
+
+# IDEs & System
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
